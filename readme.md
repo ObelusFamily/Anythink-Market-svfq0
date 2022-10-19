@@ -10,6 +10,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-1. Our engineers work with a development environment that's hosted in the cloud called Github Codespace. No need to install anything on your own computer!
-   2.your codespace is up and running. You can now run docker-compose up in your codespace's terminal to load Anythink's backend and frontend.
-   **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
